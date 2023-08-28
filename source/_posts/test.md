@@ -1,6 +1,5 @@
 ---
 title: lazyBoom
 date: 2023-08-28 20:37:11
-tags:
-这是lazyboom姐首页
+tags: 这是lazyboom姐首页！
 ---
